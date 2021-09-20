@@ -1,0 +1,7 @@
+## Bonsai Zen Garden ##
+Little preview can be acessed [here](https://drive.google.com/file/d/1p2Lct8wi-RrZmH9ymWwQHA_yl1_ZDC08/view?usp=sharing)
+
+I created the Zen Garden Bonsair which is filled with my favorite type of greenery. I focused on carefully selecting the colors of the objects, grass or pots to help create a coherent scenery. I also added a few stones to differentiate the relief. Unfortunately, I was unable to apply the Polybrush resources as they did not show up as an available option in the inspector.
+At the beginning, it was very difficult for me to operate the camera and set the view to make 3D modeling as simple as possible. After some time, however, I got used to this system. Later I ran into a problem with gismo and exiting perspective mode. Every time I did it, I was unable to go back to the perspective mode. I had to reset the settings every time.
+I find the environment modification feature exciting. Without in-depth control of lighting and sky color, the garden looked rather dull and dull. Now with the vivid orange-yellow colors of the sunset and the deep shade, the garden penetrates with a certain mystery. It's amazing how the ambient settings can change the type of narration and define the atmosphere.
+I would like to know more about how to use prefabricated elements and materials. It seems to me that we discussed these topics very briefly in the class. I feel like they could easily raise the standard of our projects.
