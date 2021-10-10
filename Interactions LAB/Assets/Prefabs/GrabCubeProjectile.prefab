@@ -45,9 +45,8 @@ GameObject:
   - component: {fileID: 1210513547823351202}
   - component: {fileID: 1210513547823351203}
   - component: {fileID: 1210513547823350877}
-  - component: {fileID: 1210513547823350876}
   m_Layer: 0
-  m_Name: Grab cube
+  m_Name: GrabCubeProjectile
   m_TagString: GrabCube
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -215,7 +214,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1210513547823350876}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: FloorTimeOut, Assembly-CSharp
         m_MethodName: ClearTimeout
         m_Mode: 1
@@ -313,17 +312,3 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   highlightColor: {r: 0.99258995, g: 1, b: 0, a: 0}
---- !u!114 &1210513547823350876
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1210513547823351204}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cf9aa8a535f16274da5faf15d808915e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  timeoutDuration: 5
-  spawn: {fileID: 0}
