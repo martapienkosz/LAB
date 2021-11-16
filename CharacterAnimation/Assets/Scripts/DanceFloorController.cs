@@ -14,7 +14,7 @@ public class DanceFloorController : MonoBehaviour
     {
         if(other.gameObject.CompareTag("yBot"))
         {
-            Animator animator = other.gameObject.GetComponent<Animator>();
+            Animator animator = other.gameObject.GetComponentInParent<Animator>();
             animator.SetBool(isDancingHash, true);
         }
     }
@@ -23,7 +23,7 @@ public class DanceFloorController : MonoBehaviour
     {
         if (other.gameObject.CompareTag("ybot"))
         {
-            Animator animator = other.gameObject.GetComponent<Animator>();
+            Animator animator = other.gameObject.GetComponentInParent<Animator>();
             animator.SetBool(isDancingHash, false);
         }
     }
